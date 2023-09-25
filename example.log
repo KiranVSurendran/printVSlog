@@ -1,0 +1,78 @@
+2023-09-25 21:32:25,527 - DEBUG - This is a debug message.
+2023-09-25 21:32:25,527 - INFO - This is an info message.
+2023-09-25 21:32:25,527 - DEBUG - The value of x is: 10
+2023-09-25 21:32:25,527 - ERROR - Custom error occurred: This is a custom error.
+Traceback (most recent call last):
+  File "/home/kinnan/Projects/printVSlog/main.py", line 12, in custom_error
+    raise ValueError("This is a custom error.")
+ValueError: This is a custom error.
+2023-09-25 21:32:25,528 - DEBUG - Loop iteration 0
+2023-09-25 21:32:25,528 - DEBUG - Loop iteration 1
+2023-09-25 21:32:25,528 - DEBUG - Loop iteration 2
+2023-09-25 21:32:25,528 - DEBUG - Loop iteration 3
+2023-09-25 21:32:25,528 - DEBUG - Loop iteration 4
+2023-09-25 21:32:55,544 - DEBUG - This is a debug message.
+2023-09-25 21:32:55,544 - INFO - This is an info message.
+2023-09-25 21:32:55,544 - DEBUG - The value of x is: 10
+2023-09-25 21:32:55,544 - ERROR - Custom error occurred: This is a custom error.
+Traceback (most recent call last):
+  File "/home/kinnan/Projects/printVSlog/main.py", line 12, in custom_error
+    raise ValueError("This is a custom error.")
+ValueError: This is a custom error.
+2023-09-25 21:32:55,545 - DEBUG - Loop iteration 0
+2023-09-25 21:32:55,545 - DEBUG - Loop iteration 1
+2023-09-25 21:32:55,545 - DEBUG - Loop iteration 2
+2023-09-25 21:32:55,545 - DEBUG - Loop iteration 3
+2023-09-25 21:32:55,545 - DEBUG - Loop iteration 4
+2023-09-25 21:35:52,876 - DEBUG - This is a debug message.
+2023-09-25 21:35:52,876 - INFO - This is an info message.
+2023-09-25 21:35:52,876 - DEBUG - The value of x is: 10
+2023-09-25 21:35:52,876 - ERROR - Custom error occurred: This is a custom error.
+Traceback (most recent call last):
+  File "/home/kinnan/Projects/printVSlog/main.py", line 12, in custom_error
+    raise ValueError("This is a custom error.")
+ValueError: This is a custom error.
+2023-09-25 21:35:52,877 - DEBUG - Loop iteration 0
+2023-09-25 21:35:52,877 - DEBUG - Loop iteration 1
+2023-09-25 21:35:52,877 - DEBUG - Loop iteration 2
+2023-09-25 21:35:52,877 - DEBUG - Loop iteration 3
+2023-09-25 21:35:52,877 - DEBUG - Loop iteration 4
+2023-09-25 21:35:59,236 - DEBUG - This is a debug message.
+2023-09-25 21:35:59,237 - INFO - This is an info message.
+2023-09-25 21:35:59,237 - DEBUG - The value of x is: 10
+2023-09-25 21:35:59,237 - ERROR - Custom error occurred: This is a custom error.
+Traceback (most recent call last):
+  File "/home/kinnan/Projects/printVSlog/main.py", line 12, in custom_error
+    raise ValueError("This is a custom error.")
+ValueError: This is a custom error.
+2023-09-25 21:35:59,237 - DEBUG - Loop iteration 0
+2023-09-25 21:35:59,237 - DEBUG - Loop iteration 1
+2023-09-25 21:35:59,237 - DEBUG - Loop iteration 2
+2023-09-25 21:35:59,237 - DEBUG - Loop iteration 3
+2023-09-25 21:35:59,237 - DEBUG - Loop iteration 4
+2023-09-25 21:41:22,424 - DEBUG - This is a debug message.
+2023-09-25 21:41:22,425 - INFO - This is an info message.
+2023-09-25 21:41:22,425 - DEBUG - The value of x is: 10
+2023-09-25 21:41:22,425 - ERROR - Custom error occurred: This is a custom error.
+Traceback (most recent call last):
+  File "/home/kinnan/Projects/printVSlog/logging_print.py", line 12, in custom_error
+    raise ValueError("This is a custom error.")
+ValueError: This is a custom error.
+2023-09-25 21:41:22,425 - DEBUG - Loop iteration 0
+2023-09-25 21:41:22,425 - DEBUG - Loop iteration 1
+2023-09-25 21:41:22,425 - DEBUG - Loop iteration 2
+2023-09-25 21:41:22,425 - DEBUG - Loop iteration 3
+2023-09-25 21:41:22,425 - DEBUG - Loop iteration 4
+2023-09-25 21:42:08,351 - DEBUG - This is a debug message.
+2023-09-25 21:42:08,351 - INFO - This is an info message.
+2023-09-25 21:42:08,351 - DEBUG - The value of x is: 10
+2023-09-25 21:42:08,351 - ERROR - Custom error occurred: This is a custom error.
+Traceback (most recent call last):
+  File "/home/kinnan/Projects/printVSlog/logging_print.py", line 12, in custom_error
+    raise ValueError("This is a custom error.")
+ValueError: This is a custom error.
+2023-09-25 21:42:08,352 - DEBUG - Loop iteration 0
+2023-09-25 21:42:08,352 - DEBUG - Loop iteration 1
+2023-09-25 21:42:08,352 - DEBUG - Loop iteration 2
+2023-09-25 21:42:08,352 - DEBUG - Loop iteration 3
+2023-09-25 21:42:08,352 - DEBUG - Loop iteration 4
